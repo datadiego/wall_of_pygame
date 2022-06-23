@@ -11,9 +11,9 @@ class Emoji:
         self.vel_y = randint(3,3)
         self.pantalla = pantalla
         self.img = pg.image.load(os.path.join("resources", "img", "emoji1.png"))
-        self.img = pg.transform.scale(self.img, (40, 40))
+        self.img = pg.transform.smoothscale(self.img, (40, 40))
         self.img2 = pg.image.load(os.path.join("resources", "img", "emoji2.png"))
-        self.img2 = pg.transform.scale(self.img2, (40, 40))
+        self.img2 = pg.transform.smoothscale(self.img2, (40, 40))
         self.imgs = [self.img, self.img2]
         self.current_img = self.imgs[0]
         self.x = (WIDTH - self.img.get_width())/2
