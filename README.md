@@ -11,6 +11,7 @@ No deberías preocuparte demasiado en que añadir o que hacer, asi que empieza s
 
 Por ultimo, aprenderemos a trabajar en equipo utilizando ramas y pull requests en github, y aunque es un proyecto con una escala pequeña, a plantear cambios de estructura en el codigo entre todos.
 
+Si tienes cualquier problema o no entiendes como empezar comentalo por discord, te echaremos un cable
 ## Si quieres colaborar:
 -   Crea una nueva rama en el repositorio:
 
