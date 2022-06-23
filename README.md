@@ -8,6 +8,7 @@ El proyecto sirve como espacio libre en el que practicar a crear diferentes clas
 Hay total libertad para poner y dar el comportamiento que uno quiera a las imagenes y gráficos creados asi que go wild! 
 
 No deberías preocuparte demasiado en que añadir o que hacer, asi que empieza simple, añade una imagen al mural! Las ideas empezarán a salir, las clases creadas las podremos compartir, heredar y ver como las ha creado cada uno de nuestros compañeros.
+
 Por ultimo, aprenderemos a trabajar en equipo utilizando ramas y pull requests en github, y aunque es un proyecto con una escala pequeña, a plantear cambios de estructura en el codigo entre todos.
 
 ## Si quieres colaborar:
