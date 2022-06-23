@@ -5,7 +5,9 @@ Este mural es un proyecto organizado por los alumnos del bootcamp realizado en K
 La idea del repo es hacer un collage digital animado utilizando Python y pygame como base y la libertad de importar y usar las que queramos.
 
 El proyecto sirve como espacio libre en el que practicar a crear diferentes clases, experimentar con las herramientas que nos da pygame para crear y usar gráficos, y empezar a utilizar github en grupo sin pensar en algo más que mover cosas en pantalla y practicar a interactuar entre ellas.
-Hay total libertad para poner y dar el comportamiento que uno quiera a las imagenes y gráficos creados asi que go wild! No deberías preocuparte demasiado en que añadir o que hacer, asi que empieza simple, añade una imagen al mural! Las ideas empezarán a salir, las clases creadas las podremos compartir, heredar y ver como las ha creado cada uno de nuestros compañeros.
+Hay total libertad para poner y dar el comportamiento que uno quiera a las imagenes y gráficos creados asi que go wild! 
+
+No deberías preocuparte demasiado en que añadir o que hacer, asi que empieza simple, añade una imagen al mural! Las ideas empezarán a salir, las clases creadas las podremos compartir, heredar y ver como las ha creado cada uno de nuestros compañeros.
 Por ultimo, aprenderemos a trabajar en equipo utilizando ramas y pull requests en github, y aunque es un proyecto con una escala pequeña, a plantear cambios de estructura en el codigo entre todos.
 
 ## Si quieres colaborar:
