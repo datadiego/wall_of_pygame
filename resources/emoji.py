@@ -1,9 +1,8 @@
-import pygame as pg
-import random
+from . import *
 randint = random.randint
-import os
 
-from . import WIDTH, HEIGHT
+
+
 
 class Emoji:
     def __init__(self, pantalla):
