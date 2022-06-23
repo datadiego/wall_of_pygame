@@ -1,4 +1,5 @@
 import pygame as pg
+from resources import emoji
 
 WIDTH = 1080
 HEIGHT = 720
@@ -7,6 +8,7 @@ class Animacion:
     def __init__(self):
         pg.init()
         self.pantalla = pg.display.set_mode((WIDTH, HEIGHT))
+        #Podemos empezar a crear nuestros objetos aqui:
 
     def bucle(self):
         loop = True
@@ -17,6 +19,7 @@ class Animacion:
                         loop = False   
                 if evento.type == pg.QUIT:
                     loop = False
+            #Aqui situaremos nuestros objetos y sus metodos
             self.ani()
             pg.display.flip()
     
